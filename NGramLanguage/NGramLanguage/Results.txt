@@ -1,0 +1,502 @@
+Running 2 languages (English and Spanish):
+	English classification of 500 sentences:
+		Accuracy = 500 / 500 = 100%
+	Spanish Classification of 500 sentences:
+		Accuracy = 488 / 500 = 97.6%
+	Average Accuracy for all 1000 sentences = 988 / 1000 = 98.8%
+	
+Running 8 Languages (English, Spanish, French, Portuguese, German, Dutch, Assamese, and Thai):
+	English:
+		Acc: 499 / 500 = 99.8%
+	Spanish:
+		Acc: 485 / 500 = 97%
+	French:
+		Acc: 497 / 500 = 99.4%
+	Portuguese:
+		Acc: 466 / 500 = 93.2%
+	German:
+		Acc: 489 / 500 = 97.8%
+	Dutch:
+		Acc: 487 / 500 = 97.4%
+	Assamese:
+		Acc: 483 / 500 = 96.6%
+	Thai:
+		Acc: 493 / 500 = 98.6%
+	Average:
+		3899 / 4000 = 97.48%
+		
+Running all (235) Languages:
+	ace:
+        Accuracy: 489 / 500 = 97.8%
+	afr:
+        Accuracy: 490 / 500 = 98%
+	als:
+        Accuracy: 440 / 500 = 88%
+	amh:
+        Accuracy: 493 / 500 = 98.6%
+	ang:
+        Accuracy: 446 / 500 = 89.2%
+	ara:
+        Accuracy: 482 / 500 = 96.4%
+	arg:
+        Accuracy: 422 / 500 = 84.4%
+	arz:
+        Accuracy: 438 / 500 = 87.6%
+	asm:
+        Accuracy: 483 / 500 = 96.6%
+	ast:
+        Accuracy: 409 / 500 = 81.8%
+	ava:
+        Accuracy: 334 / 500 = 66.8%
+	aym:
+        Accuracy: 465 / 500 = 93%
+	azb:
+        Accuracy: 492 / 500 = 98.4%
+	aze:
+        Accuracy: 474 / 500 = 94.8%
+	bak:
+        Accuracy: 484 / 500 = 96.8%
+	bar:
+        Accuracy: 414 / 500 = 82.8%
+	bcl:
+        Accuracy: 481 / 500 = 96.2%
+	be-tarask:
+        Accuracy: 379 / 500 = 75.8%
+	bel:
+        Accuracy: 432 / 500 = 86.4%
+	ben:
+        Accuracy: 439 / 500 = 87.8%
+	bho:
+        Accuracy: 437 / 500 = 87.4%
+	bjn:
+        Accuracy: 412 / 500 = 82.4%
+	bod:
+        Accuracy: 499 / 500 = 99.8%
+	bos:
+        Accuracy: 194 / 500 = 38.8%
+	bpy:
+        Accuracy: 426 / 500 = 85.2%
+	bre:
+        Accuracy: 488 / 500 = 97.6%
+	bul:
+        Accuracy: 456 / 500 = 91.2%
+	bxr:
+        Accuracy: 444 / 500 = 88.8%
+	cat:
+        Accuracy: 441 / 500 = 88.2%
+	cbk:
+        Accuracy: 118 / 500 = 23.6%
+	cdo:
+        Accuracy: 471 / 500 = 94.2%
+	ceb:
+        Accuracy: 432 / 500 = 86.4%
+	ces:
+        Accuracy: 472 / 500 = 94.4%
+	che:
+        Accuracy: 460 / 500 = 92%
+	chr:
+        Accuracy: 489 / 500 = 97.8%
+	chv:
+        Accuracy: 457 / 500 = 91.4%
+	ckb:
+        Accuracy: 496 / 500 = 99.2%
+	cor:
+        Accuracy: 492 / 500 = 98.4%
+	cos:
+        Accuracy: 474 / 500 = 94.8%
+	crh:
+        Accuracy: 437 / 500 = 87.4%
+	csb:
+        Accuracy: 475 / 500 = 95%
+	cym:
+        Accuracy: 496 / 500 = 99.2%
+	dan:
+        Accuracy: 435 / 500 = 87%
+	deu:
+        Accuracy: 462 / 500 = 92.4%
+	diq:
+        Accuracy: 484 / 500 = 96.8%
+	div:
+        Accuracy: 499 / 500 = 99.8%
+	dsb:
+        Accuracy: 469 / 500 = 93.8%
+	dty:
+        Accuracy: 345 / 500 = 69%
+	egl:
+        Accuracy: 441 / 500 = 88.2%
+	ell:
+        Accuracy: 493 / 500 = 98.6%
+	eng:
+        Accuracy: 478 / 500 = 95.6%
+	epo:
+        Accuracy: 487 / 500 = 97.4%
+	est:
+        Accuracy: 468 / 500 = 93.6%
+	eus:
+        Accuracy: 487 / 500 = 97.4%
+	ext:
+        Accuracy: 457 / 500 = 91.4%
+	fao:
+        Accuracy: 485 / 500 = 97%
+	fas:
+        Accuracy: 497 / 500 = 99.4%
+	fin:
+        Accuracy: 493 / 500 = 98.6%
+	fra:
+        Accuracy: 474 / 500 = 94.8%
+	frp:
+        Accuracy: 429 / 500 = 85.8%
+	fry:
+        Accuracy: 479 / 500 = 95.8%
+	fur:
+        Accuracy: 465 / 500 = 93%
+	gag:
+        Accuracy: 425 / 500 = 85%
+	gla:
+        Accuracy: 487 / 500 = 97.4%
+	gle:
+        Accuracy: 479 / 500 = 95.8%
+	glg:
+        Accuracy: 442 / 500 = 88.4%
+	glk:
+        Accuracy: 355 / 500 = 71%
+	glv:
+        Accuracy: 490 / 500 = 98%
+	grn:
+        Accuracy: 468 / 500 = 93.6%
+	guj:
+        Accuracy: 477 / 500 = 95.4%
+	hak:
+        Accuracy: 472 / 500 = 94.4%
+	hat:
+        Accuracy: 480 / 500 = 96%
+	hau:
+        Accuracy: 491 / 500 = 98.2%
+	hbs:
+        Accuracy: 217 / 500 = 43.4%
+	heb:
+        Accuracy: 499 / 500 = 99.8%
+	hif:
+        Accuracy: 448 / 500 = 89.6%
+	hin:
+        Accuracy: 461 / 500 = 92.2%
+	hrv:
+        Accuracy: 185 / 500 = 37%
+	hsb:
+        Accuracy: 456 / 500 = 91.2%
+	hun:
+        Accuracy: 490 / 500 = 98%
+	hye:	
+        Accuracy: 488 / 500 = 97.6%
+	ibo:
+        Accuracy: 423 / 500 = 84.6%
+	ido:
+        Accuracy: 347 / 500 = 69.4%
+	ile:
+        Accuracy: 419 / 500 = 83.8%
+	ilo:
+        Accuracy: 474 / 500 = 94.8%
+	ina:
+        Accuracy: 475 / 500 = 95%
+	ind:
+        Accuracy: 309 / 500 = 61.8%
+	isl:
+        Accuracy: 487 / 500 = 97.4%
+	ita:
+        Accuracy: 461 / 500 = 92.2%
+	jam:
+        Accuracy: 492 / 500 = 98.4%
+	jav:
+        Accuracy: 451 / 500 = 90.2%
+	jbo:	
+        Accuracy: 500 / 500 = 100%
+	jpn:
+        Accuracy: 488 / 500 = 97.6%
+	kaa:
+        Accuracy: 486 / 500 = 97.2%
+	kab:
+        Accuracy: 462 / 500 = 92.4%
+	kan:
+        Accuracy: 488 / 500 = 97.6%
+	kat:
+        Accuracy: 490 / 500 = 98%
+	kaz:
+        Accuracy: 491 / 500 = 98.2%
+	kbd:
+        Accuracy: 493 / 500 = 98.6%
+	khm:
+        Accuracy: 438 / 500 = 87.6%
+	kin:
+        Accuracy: 467 / 500 = 93.4%
+	kir:	
+        Accuracy: 448 / 500 = 89.6%
+	koi:
+        Accuracy: 355 / 500 = 71%
+	kok:
+        Accuracy: 189 / 500 = 37.8%
+	kom:
+        Accuracy: 417 / 500 = 83.4%
+	kor:
+        Accuracy: 491 / 500 = 98.2%
+	krc:
+        Accuracy: 477 / 500 = 95.4%
+	ksh:
+        Accuracy: 447 / 500 = 89.4%
+	kur:
+        Accuracy: 485 / 500 = 97%
+	lad:
+        Accuracy: 480 / 500 = 96%
+	lao:
+        Accuracy: 434 / 500 = 86.8%
+	lat:
+        Accuracy: 454 / 500 = 90.8%
+	lav:
+        Accuracy: 486 / 500 = 97.2%
+	lez:
+        Accuracy: 477 / 500 = 95.4%
+	lij:
+        Accuracy: 442 / 500 = 88.4%
+	lim:
+        Accuracy: 426 / 500 = 0.852
+	lin:
+        Accuracy: 451 / 500 = 0.902
+	lit:
+        Accuracy: 489 / 500 = 0.978
+	lmo:
+        Accuracy: 409 / 500 = 0.818
+	lrc:
+        Accuracy: 447 / 500 = 0.894
+	ltg:
+        Accuracy: 486 / 500 = 0.972
+	ltz:
+        Accuracy: 446 / 500 = 0.892
+	lug:
+        Accuracy: 473 / 500 = 0.946
+	lzh:
+        Accuracy: 482 / 500 = 0.964
+	mai:
+        Accuracy: 439 / 500 = 0.878
+	mal:
+        Accuracy: 492 / 500 = 0.984
+	map-bms:
+        Accuracy: 342 / 500 = 0.684
+	mar:
+        Accuracy: 467 / 500 = 0.934
+	mdf:
+        Accuracy: 456 / 500 = 0.912
+	mhr:
+        Accuracy: 460 / 500 = 0.92
+	min:
+        Accuracy: 432 / 500 = 0.864
+	mkd:
+        Accuracy: 479 / 500 = 0.958
+	mlg:
+        Accuracy: 499 / 500 = 0.998
+	mlt:
+        Accuracy: 491 / 500 = 0.982
+	mon:
+        Accuracy: 496 / 500 = 0.992
+	mri:
+        Accuracy: 498 / 500 = 0.996
+	mrj:
+        Accuracy: 475 / 500 = 0.95
+	msa:
+        Accuracy: 302 / 500 = 0.604
+	mwl:
+        Accuracy: 481 / 500 = 0.962
+	mya:
+        Accuracy: 489 / 500 = 0.978
+	myv:
+        Accuracy: 337 / 500 = 0.674
+	mzn:
+        Accuracy: 438 / 500 = 0.876
+	nan:	
+        Accuracy: 479 / 500 = 0.958
+	nap:
+        Accuracy: 430 / 500 = 0.86
+	nav:
+        Accuracy: 499 / 500 = 0.998
+	nci:
+        Accuracy: 333 / 500 = 0.666
+	nds:
+        Accuracy: 472 / 500 = 0.944
+	nds-nl:
+        Accuracy: 419 / 500 = 0.838
+	nep:
+        Accuracy: 343 / 500 = 0.686
+	new:
+        Accuracy: 477 / 500 = 0.954
+	nld:
+        Accuracy: 450 / 500 = 0.9
+	nno:
+        Accuracy: 433 / 500 = 0.866
+	nob:
+        Accuracy: 401 / 500 = 0.802
+	nrm:
+        Accuracy: 456 / 500 = 0.912
+	nso:
+        Accuracy: 403 / 500 = 0.806
+	oci:
+        Accuracy: 351 / 500 = 0.702
+	olo:
+        Accuracy: 486 / 500 = 0.972
+	ori:
+        Accuracy: 476 / 500 = 0.952
+	orm:
+        Accuracy: 483 / 500 = 0.966
+	oss:
+        Accuracy: 493 / 500 = 0.986
+	pag:
+        Accuracy: 391 / 500 = 0.782
+	pam:
+        Accuracy: 259 / 500 = 0.518
+	pan:
+        Accuracy: 492 / 500 = 0.984
+	pap:
+        Accuracy: 471 / 500 = 0.942
+	pcd:
+        Accuracy: 317 / 500 = 0.634
+	pdc:
+        Accuracy: 380 / 500 = 0.76
+	pfl:
+        Accuracy: 416 / 500 = 0.832
+	pnb:
+        Accuracy: 492 / 500 = 0.984
+	pol:
+        Accuracy: 494 / 500 = 0.988
+	por:
+        Accuracy: 447 / 500 = 0.894
+	pus:
+        Accuracy: 475 / 500 = 0.95
+	que:
+        Accuracy: 454 / 500 = 0.908
+	roa-tara:
+        Accuracy: 465 / 500 = 0.93
+	roh:
+        Accuracy: 480 / 500 = 0.96
+	ron:
+        Accuracy: 480 / 500 = 0.96
+	rue:
+        Accuracy: 449 / 500 = 0.898
+	rup:
+        Accuracy: 421 / 500 = 0.842
+	rus:
+        Accuracy: 486 / 500 = 0.972
+	sah:
+        Accuracy: 485 / 500 = 0.97
+	san:
+        Accuracy: 475 / 500 = 0.95
+	scn:
+		Accuracy: 479 / 500 = 0.958
+	sco:
+        Accuracy: 467 / 500 = 0.934
+	sgs:
+        Accuracy: 497 / 500 = 0.994
+	sin:
+        Accuracy: 469 / 500 = 0.938
+	slk:
+        Accuracy: 481 / 500 = 0.962
+	slv:
+        Accuracy: 450 / 500 = 0.9
+	sme:
+        Accuracy: 433 / 500 = 0.866
+	sna:
+        Accuracy: 451 / 500 = 0.902
+	snd:
+        Accuracy: 495 / 500 = 0.99
+	som:
+        Accuracy: 465 / 500 = 0.93
+	spa:
+        Accuracy: 408 / 500 = 0.816
+	sqi:
+        Accuracy: 478 / 500 = 0.956
+	srd:
+        Accuracy: 477 / 500 = 0.954
+	srn:
+        Accuracy: 470 / 500 = 0.94
+	srp:
+        Accuracy: 446 / 500 = 0.892
+	stq:
+        Accuracy: 468 / 500 = 0.936
+	sun:
+        Accuracy: 446 / 500 = 0.892
+	swa:
+        Accuracy: 478 / 500 = 0.956
+	swe:
+        Accuracy: 465 / 500 = 0.93
+	szl:
+        Accuracy: 477 / 500 = 0.954
+	tam:
+        Accuracy: 494 / 500 = 0.988
+	tat:
+        Accuracy: 450 / 500 = 0.9
+	tcy:
+        Accuracy: 491 / 500 = 0.982
+	tel:
+        Accuracy: 471 / 500 = 0.942
+	tet:
+        Accuracy: 444 / 500 = 0.888
+	tgk:
+        Accuracy: 428 / 500 = 0.856
+	tgl:
+        Accuracy: 490 / 500 = 0.98
+	tha:
+        Accuracy: 493 / 500 = 0.986
+	ton:
+        Accuracy: 497 / 500 = 0.994
+	tsn:
+        Accuracy: 488 / 500 = 0.976
+	tuk:
+        Accuracy: 495 / 500 = 0.99
+	tur:
+        Accuracy: 480 / 500 = 0.96
+	tyv:
+        Accuracy: 476 / 500 = 0.952
+	udm:
+        Accuracy: 458 / 500 = 0.916
+	uig:
+        Accuracy: 493 / 500 = 0.986
+	ukr:
+        Accuracy: 479 / 500 = 0.958
+	urd:
+        Accuracy: 443 / 500 = 0.886
+	uzb:
+        Accuracy: 495 / 500 = 0.99
+	vec:
+        Accuracy: 461 / 500 = 0.922
+	vep:
+        Accuracy: 483 / 500 = 0.966
+	vie:
+        Accuracy: 488 / 500 = 0.976
+	vls:
+        Accuracy: 427 / 500 = 0.854
+	vol:
+        Accuracy: 415 / 500 = 0.83
+	vro:
+		Accuracy: 481 / 500 = 0.962
+	war:
+        Accuracy: 498 / 500 = 0.996
+	wln:
+        Accuracy: 491 / 500 = 0.982
+	wol:
+        Accuracy: 465 / 500 = 0.93
+	wuu:
+        Accuracy: 350 / 500 = 0.7
+	xho:
+        Accuracy: 468 / 500 = 0.936
+	xmf:
+        Accuracy: 485 / 500 = 0.97
+	yid:
+        Accuracy: 489 / 500 = 0.978
+	yor:
+        Accuracy: 407 / 500 = 0.814
+	zea:
+        Accuracy: 389 / 500 = 0.778
+	zh-yue:
+        Accuracy: 355 / 500 = 0.71
+	zho:
+        Accuracy: 418 / 500 = 0.836
+	Average Accuracy: 
+		105742 / 117500 = 0.899931914893617
+		
+		2112 - 

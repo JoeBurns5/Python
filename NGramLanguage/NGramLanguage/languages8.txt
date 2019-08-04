@@ -1,0 +1,8 @@
+asm
+deu
+eng
+fra
+nld
+por
+spa
+tha
